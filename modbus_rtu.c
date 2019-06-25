@@ -1,5 +1,5 @@
 #include "modbus_rtu.h"
-#include "modbus_slave_rtu_conf.h"
+#include "modbus_rtu_conf.h"
 #include "stm32f30x.h"
 #include "string.h"
 
